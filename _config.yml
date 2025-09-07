@@ -1,0 +1,17 @@
+title: "LETs Start MLSecOps With ME"
+description: "ALL OF THE MLSECOPS"
+baseurl: "" 
+url: "https://xorverbin.github.io"
+theme: "minimal-mistakes-jekyll"
+
+author:
+  name: "JINLEE"
+ 
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
